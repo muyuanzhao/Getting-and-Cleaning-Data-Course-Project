@@ -1,0 +1,76 @@
+Coursera - Getting and Cleaning Data
+Course Project
+
+Code Book
+Listing for columns in the outputData.csv dataset.
+
+RowNumber: (integer) : Ascending number to uniquely identify each row (integer)
+Subject: (integer) :  A number to identify each test subject
+Label: (integer) : The activity that was measured (1-WALKING : 2-WALKING_UPSTAIRS : 3-WALKING_DOWNSTAIRS : 4-SITTING : 5-STANDING : 6-LAYING)
+BodyAccelerationTimeXAxisMean: (Decimal) :  Average of Body Acceleration Time on the X-Axis Mean
+BodyAccelerationTimeYAxisMean: (Decimal) :  Average of Body Acceleration Time on the Y-Axis Mean
+BodyAccelerationTimeZAxisMean: (Decimal) :  Average of Body Acceleration Time on the Z-Axis Mean
+GravityAccelerationTimeXAxisMean: (Decimal) :  Average of Gravity Acceleration Time on the X-Axis Mean
+GravityAccelerationTimeYAxisMean: (Decimal) :  Average of Gravity Acceleration Time on the Y-Axis Mean
+GravityAccelerationTimeZAxisMean: (Decimal) :  Average of Gravity Acceleration Time on the Z-Axis Mean
+BodyAccelerationTimeJerkXAxisMean: (Decimal) :  Average of Body Acceleration Time Jerk on the X-Axis Mean
+BodyAccelerationTimeJerkYAxisMean: (Decimal) :  Average of Body Acceleration Time Jerk on the Y-Axis Mean
+BodyAccelerationTimeJerkZAxisMean: (Decimal) :  Average of Body Acceleration Time Jerk on the Z-Axis Mean
+BodyAngularVelocityTimeXAxisMean: (Decimal) :  Average of Body AngularVelocity Time on the X-Axis Mean
+BodyAngularVelocityTimeYAxisMean: (Decimal) :  Average of Body Angular Velocity Time on the Y-Axis Mean
+BodyAngularVelocityTimeZAxisMean: (Decimal) :  Average of Body Angular Velocity Time on the Z-Axis Mean
+BodyAngularVelocityTimeJerkXAxisMean: (Decimal) :  Average of Body Angular Velocity Time Jerk on the X-Axis Mean
+BodyAngularVelocityTimeJerkYAxisMean: (Decimal) :  Average of Body Angular Velocity Time Jerk on the Y-Axis Mean
+BodyAngularVelocityTimeJerkZAxisMean: (Decimal) :  Average of Body Angular Velocity Time Jerk on the Z-Axis Mean
+BodyAccelerationTimeMagMean: (Decimal) :  Average of Body Acceleration Time Magnitude Mean
+GravityAccelerationTimeMagMean: (Decimal) :  Average of Gravity Acceleration Time Magnitude Mean
+BodyAccelerationTimeJerkMagMean: (Decimal) :  Average of Body Acceleration Time Jerk Magnitude Mean
+BodyAngularVelocityTimeMagMean: (Decimal) :  Average of Body Angular Velocity Time Magnitude Mean
+BodyAngularVelocityTimeJerkMagMean: (Decimal) :  Average of Body Angular Velocity Time Jerk Mag Mean
+BodyAccelerationFrequencyXAxisMean: (Decimal) :  Average of Body Acceleration Frequency on the X-Axis Mean
+BodyAccelerationFrequencyYAxisMean: (Decimal) :  Average of Body Acceleration Frequency on the Y-Axis Mean
+BodyAccelerationFrequencyZAxisMean: (Decimal) :  Average of Body Acceleration Frequency on the Z-Axis Mean
+BodyAccelerationFrequencyXAxisMeanFrequency: (Decimal) :  Average of Body Acceleration Frequency on the X-Axis Mean Frequency
+BodyAccelerationFrequencyYAxisMeanFrequency: (Decimal) :  Average of Body Acceleration Frequency on the Y-Axis Mean Frequency
+BodyAccelerationFrequencyZAxisMeanFrequency: (Decimal) :  Average of Body Acceleration Frequency on the Z-Axis Mean Frequency
+BodyAccelerationFrequencyJerkXAxisMean: (Decimal) :  Average of Body Acceleration Frequency Jerk on the X-Axis Mean
+BodyAccelerationFrequencyJerkYAxisMean: (Decimal) :  Average of Body Acceleration Frequency Jerk on the Y-Axis Mean
+BodyAccelerationFrequencyJerkZAxisMean: (Decimal) :  Average of Body Acceleration Frequency Jerk on the Z-Axis Mean
+BodyAccelerationFrequencyJerkXAxisMeanFrequency: (Decimal) :  Average of Body Acceleration Frequency Jerk on the X-Axis Mean Frequency
+BodyAccelerationFrequencyJerkYAxisMeanFrequency: (Decimal) :  Average of Body Acceleration Frequency Jerk on the Y-Axis Mean Frequency
+BodyAccelerationFrequencyJerkZAxisMeanFrequency: (Decimal) :  Average of Body Acceleration Frequency Jerk on the Z-Axis Mean Frequency
+BodyAngularVelocityFrequencyXAxisMean: (Decimal) :  Average of Body Angular Velocity Frequency on the X-Axis Mean
+BodyAngularVelocityFrequencyYAxisMean: (Decimal) :  Average of Body Angular Velocity Frequency on the Y-Axis Mean
+BodyAngularVelocityFrequencyZAxisMean: (Decimal) :  Average of Body Angular Velocity Frequency on the Z-Axis Mean
+BodyAngularVelocityFrequencyXAxisMeanFrequency: (Decimal) :  Average of Body Angular Velocity Frequency on the X-Axis Mean Frequency
+BodyAngularVelocityFrequencyYAxisMeanFrequency: (Decimal) :  Average of Body Angular Velocity Frequency on the Y-Axis Mean Frequency
+BodyAngularVelocityFrequencyZAxisMeanFrequency: (Decimal) :  Average of Body Angular Velocity Frequency on the Z-Axis Mean Frequency
+BodyAccelerationFrequencyMagMean: (Decimal) :  Average of Body Acceleration Frequency Magnitude Mean
+BodyAccelerationFrequencyMagMeanFrequency: (Decimal) :  Average of Body Acceleration Frequency Magnitude Mean Frequency
+BodyFrequencyBodyAccJerkMagMean: (Decimal) :  Average of Body Frequency Body Accelerometer Jerk Magnitude Mean
+BodyFrequencyBodyAccJerkMagMeanFrequency: (Decimal) :  Average of Body Frequency Body Accelerometer Jerk Magnitude Mean Frequency
+BodyFrequencyBodyGyroMagMean: (Decimal) :  Average of Body Frequency Body Gyroscope Magnitude Mean
+BodyFrequencyBodyGyroMagMeanFrequency: (Decimal) :  Average of Body Frequency Body Gyroscope Magnitude Mean Frequency
+BodyFrequencyBodyGyroJerkMagMean: (Decimal) :  Average of Body Frequency Body Gyroscope Jerk Magnitude Mean
+BodyFrequencyBodyGyroJerkMagMeanFrequency: (Decimal) :  Average of Body Frequency Body Gyroscope Jerk Magnitude Mean Frequency
+BodyAccelerationTimeXAxisStandardDeviation: (Decimal) :  Average of Body Acceleration Time on the X-Axis Standard Deviation
+BodyAccelerationTimeYAxisStandardDeviation: (Decimal) :  Average of Body Acceleration Time on the Y-Axis Standard Deviation
+BodyAccelerationTimeZAxisStandardDeviation: (Decimal) :  Average of Body Acceleration Time on the Z-Axis Standard Deviation
+GravityAccelerationTimeXAxisStandardDeviation: (Decimal) :  Average of Gravity Acceleration Time on the X-Axis Standard Deviation
+GravityAccelerationTimeYAxisStandardDeviation: (Decimal) :  Average of Gravity Acceleration Time on the Y-Axis Standard Deviation
+GravityAccelerationTimeZAxisStandardDeviation: (Decimal) :  Average of Gravity Acceleration Time on the Z-Axis Standard Deviation
+BodyAccelerationTimeJerkXAxisStandardDeviation: (Decimal) :  Average of Body Acceleration Time Jerk on the X-Axis Standard Deviation
+BodyAccelerationTimeJerkYAxisStandardDeviation: (Decimal) :  Average of Body Acceleration Time Jerk on the Y-Axis Standard Deviation
+BodyAccelerationTimeJerkZAxisStandardDeviation: (Decimal) :  Average of Body Acceleration Time Jerk on the Z-Axis Standard Deviation
+BodyAngularVelocityTimeXAxisStandardDeviation: (Decimal) :  Average of Body Angular Velocity Time on the X-Axis Standard Deviation
+BodyAngularVelocityTimeYAxisStandardDeviation: (Decimal) :  Average of Body Angular Velocity Time on the Y-Axis Standard Deviation
+BodyAngularVelocityTimeZAxisStandardDeviation: (Decimal) :  Average of Body Angular Velocity Time on the Z-Axis Standard Deviation
+BodyAngularVelocityTimeJerkXAxisStandardDeviation: (Decimal) :  Average of Body Angular Velocity Time Jerk on the X-Axis Standard Deviation
+BodyAngularVelocityTimeJerkYAxisStandardDeviation: (Decimal) :  Average of Body Angular Velocity Time Jerk on the Y-Axis Standard Deviation
+BodyAngularVelocityTimeJerkZAxisStandardDeviation: (Decimal) :  Average of Body Angular Velocity Time Jerk on the Z-Axis Standard Deviation
+BodyAccelerationTimeMagStandardDeviation: (Decimal) :  Average of Body Acceleration Time Magnitude Standard Deviation
+GravityAccelerationTimeMagStandardDeviation: (Decimal) :  Average of Gravity Acceleration Time Magnitude Standard Deviation
+BodyAccelerationTimeJerkMagStandardDeviation: (Decimal) :  Average of Body Acceleration Time Jerk Magnitude Standard Deviation
+BodyAngularVelocityTimeMagStandardDeviation: (Decimal) :  Average of Body Angular Velocity Time Magnitude Standard Deviation
+BodyAngularVelocityTimeJerkMagStandardDeviation: (Decimal) :  Average of Body Angular Velocity Time Jerk Magnitude Standard Deviation
+BodyAccelerationFrequencyXAxis
